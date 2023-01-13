@@ -18,7 +18,7 @@ const SocialMedia = () => {
             
         </div>
         <div>
-          <a href="https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:2efff04e-54d5-42b3-8cfe-54dc1ad98223">
+          <a href="https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:dd4828fa-94e8-4d15-af08-d7da0e20a59e">
           < BsFillFileEarmarkTextFill/>
           </a>
             
